@@ -44,7 +44,7 @@ module.exports = {
       {
         text: 'OTHER',
         link: '/OTHER/'
-      }
+      } 
     ],
     sidebar: {
       '/guide/': [
