@@ -1,0 +1,19 @@
+{
+  "name": "SakuraStreet",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "MASAAKI HARADA",
+    "email": "masaaki.harada.04@gmail.com"
+  },
+  "repository": "/SakuraStreet",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
