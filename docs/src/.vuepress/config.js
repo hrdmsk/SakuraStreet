@@ -40,6 +40,10 @@ module.exports = {
       {
         text: 'TIMETABLE',
         link: '/timetable/'
+      },
+      {
+        text: 'OTHER',
+        link: '/OTHER/'
       }
     ],
     sidebar: {
