@@ -2,14 +2,13 @@
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: 
-actionText: Quick Start →
+actionText: Check Schedule
 actionLink: /guide/
 features:
 - title: Consept
-  details: Feature 1 Description
+  details: 現在定期開催のイベントはこちら
 - title: Patron
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by MASAAKI HARADA with ❤️
+  details: 支援者様専用ページ
+footer: Made by MS4K HRD
+
 ---
